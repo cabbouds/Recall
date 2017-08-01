@@ -1,0 +1,3 @@
+*Identifying product recall using social networks
+
+Social networks have become a viable source of information not only for users but for companies that use them for marketing issues, for product feedback or customer service. In this paper, we investigate how companies can identify possible recalls in their products already launched using comments made by users in social networks, such as Facebook or Twitter.
